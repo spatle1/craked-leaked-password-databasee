@@ -1,1 +1,1 @@
-# craked-leaked-password-batabase
+# craked-leaked-password-database
